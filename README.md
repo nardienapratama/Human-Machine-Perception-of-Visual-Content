@@ -89,4 +89,4 @@ If you use this repository in your research, please cite the following paper:
 This project is licensed under the terms of the LICENSE file.
 
 ## Contact
-For questions or feedback, please contact the repository maintainer.
+For questions or feedback, please contact Nardiena A. Pratama (n.pratama@uq.edu.au).
